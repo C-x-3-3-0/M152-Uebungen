@@ -10,7 +10,7 @@
 <script setup>
 </script>
 
-<style scoped>
+<style scoped lang="scss">
   div {
     display: flex;
     justify-content: center;
